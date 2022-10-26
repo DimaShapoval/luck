@@ -12,15 +12,11 @@ for (let i = 0; i < 30; i++) {
   <li class="li-cas">${random} </li>`
 }
 function start() {
-
-  // const move = -2070;
-  // firstUl.style.left = move + "px"
   $('#first-ul').animate({
     left: -2070
   });
   vidos.play();
   setTimeout(() => {
-    document.querySelector("#try-button").setAttribute("onclick", "connectt()");
     document.querySelector("#try-button").innerHTML = "Claim";
   }, 5500);
 
@@ -35,7 +31,6 @@ function start1() {
   const move = -2070;
   ulCasino.style.left = move + "px"
   setTimeout(() => {
-    document.querySelector("#try-button1").setAttribute("onclick", "connectt()");
     document.querySelector("#try-button1").innerHTML = "Claim";
   }, 5500);
 
