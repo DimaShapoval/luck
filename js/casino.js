@@ -44,59 +44,6 @@ function start1() {
 tryButton1.addEventListener('click', start1)
 
 
-// if (iOS != null) {
-
-
-  
-//     $('#try-button1').on('click', function () {
-//         var move = -2070;
-//         document.querySelector('.try-of-numbers1 > ul').style.left = "-2070px";
-//         setTimeout( function () {
-//             $("#try-button1").setAttribute("onclick", "connectt()");
-//             $("#try-button1").innerHTML = "Claim";
-//         }, 5500)
-//     });
-
-
-
-
-
-
-// }
-
-
-  // }
-// else{
-//   $('#try-button1').on('click', function(){
-
-//   //   const move = -2070;
-//   // document.querySelector('.try-of-numbers1 > ul > li').style.left = move + "px"
-
-//     document.querySelector('.try-of-numbers1 > ul').style.left = "-2070px"
-
-
-
-//         // document.querySelector('.try-of-numbers1 > ul').style.left = "-2070px"
-
-//   setTimeout(() => {$("#try-button1").setAttribute("onclick", "connectt()");
-//   $("#try-button1").innerHTML = "Claim";}, 5500);
-//   });
-// }
-
-
-
-
-
-
-
-
-  //   const move = -2070;
-  // document.querySelector('.try-of-numbers1 > ul').style.left = move + "px"
-
-
-  // setTimeout(() => {$("#try-button1").setAttribute("onclick", "connectt()");
-  // $("#try-button1").innerHTML = "Claim";}, 5500);
-
 
 
 
