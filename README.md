@@ -1,5 +1,4 @@
-#RU
-
+# RU:
 # Анимация рулетки
 
 На днях появилась довольно интересная идея сделать анимацию прокрута, найдя дизайн и почитав и интернете получилось сделать
@@ -17,8 +16,7 @@
 
 [Посмотреть на работу сайта можно тут](https://twitter.dsapoval422.repl.co/index1.html)
 
-# ENG
-
+# ENG:
 # Animation of roulette
 
 Some days ago I have interesting idea to make animation of horizontal scroll. When I found design and read some article in internet I MANAGED TO DO THIS
